@@ -12,7 +12,8 @@ It just needs a couple of steps:
 
 This example shows exactly how to do it.
 
-Hardware platform: STM32 F4 Discovery board (STM32F407VGT6) 
+Hardware platform: 
+STM32 F4 Discovery board (STM32F407VGT6) 
 
 Software platform:  
 
