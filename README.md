@@ -34,5 +34,7 @@ Files:
 
 STM32CubeCppExampleF4.ioc: STM32CubeMX project
 
+/Src/LEDcpp.cpp, /Inc/LEDcpp.hpp : C++ LED class for STM32
+
 If four LEDs on STM32 F4 Discovery board toggle respectively every 0.5,1,2,4 seconds, then we are done.
 
