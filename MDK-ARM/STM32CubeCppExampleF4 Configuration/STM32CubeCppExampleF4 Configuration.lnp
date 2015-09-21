@@ -1,0 +1,23 @@
+--cpu Cortex-M4.fp
+"stm32cubecppexamplef4 configuration\system_stm32f4xx.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_pwr_ex.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_flash_ex.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_flash.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_gpio.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_flash_ramfunc.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_dma.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_dma_ex.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_rcc_ex.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_cortex.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_rcc.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_pwr.o"
+"stm32cubecppexamplef4 configuration\startup_stm32f407xx.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_hal_msp.o"
+"stm32cubecppexamplef4 configuration\stm32f4xx_it.o"
+"stm32cubecppexamplef4 configuration\ledcpp.o"
+"stm32cubecppexamplef4 configuration\main.o"
+--library_type=microlib --strict --scatter "STM32CubeCppExampleF4 Configuration\STM32CubeCppExampleF4 Configuration.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STM32CubeCppExampleF4 Configuration.map" -o "STM32CubeCppExampleF4 Configuration\STM32CubeCppExampleF4 Configuration.axf"
