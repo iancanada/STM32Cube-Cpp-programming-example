@@ -17,6 +17,7 @@ Software platform:  Keil ARM MDK V5.05
                             STM32CubeMX V4.9.0
 
 /MDK-ARM/: Keil ARM MDK project
+
 STM32CubeCppExampleF4.ioc: STM32CubeMX project
 
 If four LEDs on STM32 F4 Discovery board toggle respectively every 0.5,1,2,4 seconds, then we are done.
