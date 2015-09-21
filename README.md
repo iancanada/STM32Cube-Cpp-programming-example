@@ -1,5 +1,13 @@
 # STM32Cube-Cpp-programming-example
 
+/**
+ * Project: STM32Cube C++ programming example
+ * Copyright (C) Ian Jin
+ * iancanada.mail@gmail.com
+ * https://github.com/iancanada/
+ * Twitter: @iancanadaTT
+ **/
+
 This example will show you how to program STM32 in C++ with STM32 HAL drivers and STM32CubeMX generated code frame.
 
 It's true that STM32Cube can not generate C++ project so far. However, STM32 HAL drivers already have C++ support. So, it's still possible to create C++ code for STM32 based on STM32 HAL drivers and STM32CubeMX generated projects. 
