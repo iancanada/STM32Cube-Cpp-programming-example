@@ -13,6 +13,7 @@ It just needs a couple of steps:
 This example shows exactly how to do it.
 
 Hardware platform: STM32 F4 Discovery board (STM32F407VGT6) 
+
 Software platform:  Keil ARM MDK V5.05
                             STM32CubeMX V4.9.0
 
