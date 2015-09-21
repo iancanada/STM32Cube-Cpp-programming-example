@@ -1,6 +1,5 @@
 # STM32Cube-Cpp-programming-example
 
- * STM32Cube C++ programming example
  * Copyright (C) Ian Jin
  * iancanada.mail@gmail.com
  * https://github.com/iancanada/
